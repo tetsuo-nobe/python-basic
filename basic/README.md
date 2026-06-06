@@ -14,7 +14,7 @@ Python の基本的な文法や機能を学ぶためのサンプルコード集�
 ### 1. リポジトリをクローンする
 
 ```bash
-git clone <リポジトリの URL>
+git clone https://github.com/tetsuo-nobe/python-basic.git
 ```
 
 ### 2. python_basic フォルダに移動する
